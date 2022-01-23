@@ -1,5 +1,5 @@
 # kodluyoruz-front-end
-front- end html ödev
+front- end html ödevine aşağıdaki linkten ulaşabilirsiniz:
 
 [https://github.com/elifzgnrl/kodluyoruz-front--end.git](https://github.com/elifzgnrl/kodluyoruz-front--end.git)
 
