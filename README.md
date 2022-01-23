@@ -1,2 +1,2 @@
-# kodluyoruz-front--end
+# kodluyoruz-front-end
 front- end ödev
